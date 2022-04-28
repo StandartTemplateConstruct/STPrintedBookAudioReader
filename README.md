@@ -7,3 +7,5 @@ Recognizes the printed book out of collection of PDF books - by a cover or by a 
 
 ## [TorrentTrackerBookLibrarian](https://github.com/StandartTemplateConstruct/TorrentTrackerBookLibrarian)
 
+
+
